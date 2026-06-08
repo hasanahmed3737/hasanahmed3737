@@ -14,7 +14,6 @@ A passionate tech enthusiast studying Computer Science and AI, dedicated to buil
 - **Core Concepts:** AI Assistants Integration, Software Quality Assurance (QA)
 
 ---
-
 ### 💻 Featured Projects
 
 #### 🐾 [Animal Shop Project](https://github.com/hasanahmed3737/animals-project)
@@ -22,7 +21,7 @@ A passionate tech enthusiast studying Computer Science and AI, dedicated to buil
 - Features an **AI assistant page** designed to provide personalized pet recommendations.
 - Focused on frontend responsive design and led the Quality Assurance (QA) testing phase.
 
-#### 🌐 [Personal Web Portfolio](https://github.com/hasanahmed3737//Html-Css-Assignment) 
+#### 🌐 [Personal Web Portfolio](https://github.com/hasanahmed3737/Html-Css-Assignment-)
 - Built a personal portfolio from scratch using modern web technologies to showcase skills and updates.
 
 ---
