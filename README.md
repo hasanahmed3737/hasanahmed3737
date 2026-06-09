@@ -7,7 +7,6 @@ A passionate tech enthusiast studying Computer Science and AI, dedicated to buil
 ---
 
 ### 🛠️ Tech Stack & Skills
-### 🛠️ Tech Stack & Skills
 
 #### Frontend Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
