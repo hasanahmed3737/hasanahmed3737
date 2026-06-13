@@ -22,7 +22,7 @@ A passionate tech enthusiast studying Computer Science and AI, dedicated to buil
 ### 💻 Featured Projects
 
 #### 🐾 [Animal Shop Project](https://github.com/hasanahmed3737/animals-project)
-- A full-stack web application for pet shop management.
+- A front-End web application for pet shop management.
 - Features an **AI assistant page** designed to provide personalized pet recommendations.
 - Focused on frontend responsive design and led the Quality Assurance (QA) testing phase.
 
